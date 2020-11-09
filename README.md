@@ -1,2 +1,3 @@
 # Trabajofinaltp2
-#Se ha modificado la parte 2
+# se modifico el documento de animal genome se agrego los datos para dataframe  y analisis de datos
+
